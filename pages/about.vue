@@ -5,6 +5,10 @@
   </div>
 </template>
 
-<script setup></script>
+<script setup>
+useHead({
+  title: "About",
+});
+</script>
 
 <style lang="scss" scoped></style>
