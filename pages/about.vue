@@ -5,14 +5,6 @@
   </div>
 </template>
 
-<script setup>
-// definePageMeta({
-//   layout: "another",
-// });
-
-// function enableCustomLayout() {
-//   setPageLayout("another");
-// }
-</script>
+<script setup></script>
 
 <style lang="scss" scoped></style>
