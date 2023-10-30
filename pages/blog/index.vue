@@ -3,6 +3,8 @@
 </template>
 
 <script setup>
+const result = await queryContent("/").find();
+console.log(result);
 </script>
 
 <style lang="scss" scoped></style>
